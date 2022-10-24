@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Desktop\\new\\IterationStatements\\IterationStatements\\IterationStatements.csproj": {}
+    "C:\\Users\\cgwhi\\repos\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Desktop\\new\\IterationStatements\\IterationStatements\\IterationStatements.csproj": {
+    "C:\\Users\\cgwhi\\repos\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\IterationStatements\\IterationStatements\\IterationStatements.csproj",
+        "projectUniqueName": "C:\\Users\\cgwhi\\repos\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
         "projectName": "IterationStatements",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\IterationStatements\\IterationStatements\\IterationStatements.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\IterationStatements\\IterationStatements\\obj\\",
+        "projectPath": "C:\\Users\\cgwhi\\repos\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
+        "packagesPath": "C:\\Users\\cgwhi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cgwhi\\repos\\Iteration-Statements-Exercise\\IterationStatements\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\cgwhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
